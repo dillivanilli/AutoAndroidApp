@@ -14,6 +14,7 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.ListView;
+import services.HotspotService;
 
 public class RemoteActivity extends AppCompatActivity implements SensorEventListener {
     //Die sind für den Drawer
